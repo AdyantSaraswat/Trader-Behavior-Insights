@@ -98,7 +98,7 @@ No manual installation is required.
 **Name:** Your Full Name
 **Project Folder:** `ds_adyant_saraswat`[file:///C:/Users/Adyant/Desktop/PEC%20work/ds_adyant_saraswat/ds_report.pdf]
 **Colab Notebook:** [Link to Colab]((https://colab.research.google.com/drive/13jKEUeIxo4Nioq8M-AYpeA_-mwtN45pD))
-**GitHub Repository:** [Link to Repo](PASTE_YOUR_GITHUB_LINK_HERE)
+
 
 ---
 
