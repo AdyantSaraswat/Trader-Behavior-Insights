@@ -1,12 +1,12 @@
 # Trader-Behavior-Insights
-# 📊 Market Sentiment vs Trader Behavior Analysis
+#  Market Sentiment vs Trader Behavior Analysis
 
 This project explores how **trader performance (profitability, risk, and trade volume)** aligns or diverges from **overall Bitcoin market sentiment (Fear vs Greed)**.
 The objective is to uncover patterns and insights that can help design **smarter, sentiment-aware trading strategies**.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 We combine two datasets:
 
@@ -28,28 +28,27 @@ The analysis investigates whether trading behavior and profitability change unde
 
 ```
 ds_spidy/
-├── notebook_1.ipynb        # Main Colab notebook (EDA + Analysis)
-├── notebook_2.ipynb        # (Optional) Secondary notebook
-├── csv_files/              # Raw and processed datasets
+├── notebook_1.ipynb      
+├── csv_files/             
 │   ├── sentiment_data.csv
 │   ├── trade_history.csv
-│   └── processed_trades.csv
-├── outputs/                # Generated visualizations
+│   
+├── outputs/             
 │   ├── profit_loss_dist.png
 │   ├── trade_size_log.png
 │   └── sentiment_vs_trades.png
-├── ds_report.pdf           # Final report summarizing insights
-└── README.md               # Project documentation
+├── ds_report.pdf[file:///C:/Users/Adyant/Desktop/PEC%20work/ds_adyant_saraswat/ds_report.pdf]        
+└── README.md         
 ```
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 1. **Open the Notebook in Google Colab**
 
    * [Colab Notebook Link]((https://colab.research.google.com/drive/13jKEUeIxo4Nioq8M-AYpeA_-mwtN45pD))
-   * Set access to *“Anyone with the link can view”*.
+  
 
 2. **Upload CSV Files**
 
@@ -69,7 +68,7 @@ ds_spidy/
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * Most trades yield **near-zero profit**, implying frequent low-margin trading.
 * Trade sizes are **heavily right-skewed** — a few large trades dominate total volume.
@@ -79,7 +78,7 @@ ds_spidy/
 
 ---
 
-## 🧾 Requirements
+##  Requirements
 
 The notebook uses standard Python libraries available in Google Colab:
 
@@ -97,8 +96,8 @@ No manual installation is required.
 ## 🧑‍💻 Author
 
 **Name:** Your Full Name
-**Project Folder:** `ds_adyant_saraswat`
-**Colab Notebook:** [Link to Colab](PASTE_YOUR_COLAB_LINK_HERE)
+**Project Folder:** `ds_adyant_saraswat`[file:///C:/Users/Adyant/Desktop/PEC%20work/ds_adyant_saraswat/ds_report.pdf]
+**Colab Notebook:** [Link to Colab]((https://colab.research.google.com/drive/13jKEUeIxo4Nioq8M-AYpeA_-mwtN45pD))
 **GitHub Repository:** [Link to Repo](PASTE_YOUR_GITHUB_LINK_HERE)
 
 ---
